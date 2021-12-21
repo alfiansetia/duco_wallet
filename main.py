@@ -5,7 +5,7 @@ import time
 
 url = "https://server.duinocoin.com/users/"
 
-user = ['alfiansetia', 'alfinetwork', 'alfi']
+user = ['alfiansetia', 'alfinetwork']
 
 
 btot = 0
